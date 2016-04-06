@@ -1,4 +1,6 @@
-Here you can find a collection of LUA scripts for Verlihub. To find more scripts search on http://ro.4242.hu/cgi-bin/yabb2/YaBB.pl (Hungarian forums) or ask Google
+Information
+---
+Most of these scripts were written for Lua 5.0 many years ago, that's why they have their own directory. To find more scripts use: http://ro.4242.hu/cgi-bin/yabb2/YaBB.pl
 
 Download Blocker (download_block.lua)
 ---
